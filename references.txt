@@ -1,0 +1,7 @@
+#python string formatting in detail
+https://pyformat.info/
+
+
+
+
+

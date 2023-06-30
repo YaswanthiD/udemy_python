@@ -1,0 +1,3 @@
+%%writefile test.txt
+Hello this is Yaswanthi
+I'm 22 yrs old
